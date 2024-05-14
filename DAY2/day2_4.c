@@ -10,7 +10,7 @@ int main(){
 
     //tab \t
     printf("\nHello\tPH28");
-    printf("\n\tHello");
+    printf("\n\tHello PH28");
 
     //backspace \b
     printf("\nHello PH28\b\b12");
